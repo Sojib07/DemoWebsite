@@ -137,6 +137,10 @@ h3, .h3 {
   }
 }
 
+ul.b{
+    list-style:circle;
+}
+
 h4, .h4 {
   font-size: calc(1.275rem + 0.3vw);
 }
@@ -11329,7 +11333,12 @@ p.lead {
   font-weight: 500;
   font-size: 1.5rem;
 }
-
+.subheading2 {
+    font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    
+    font-weight: 500;
+    font-size: 1.3rem;
+}
 #sideNav {
   padding-left: 1rem;
   padding-right: 1rem;
