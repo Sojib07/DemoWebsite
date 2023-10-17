@@ -3937,6 +3937,12 @@ textarea.form-control-lg {
   border-top-right-radius: 0;
 }
 
+.scrollable-nav {
+  height:100% ; /* Adjust the max height as needed */
+  overflow-y: auto;
+}
+
+
 .nav {
   display: flex;
   flex-wrap: wrap;
